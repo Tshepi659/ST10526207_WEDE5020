@@ -1,4 +1,4 @@
-iMentorU Foundation Website — WEDE5020W Part 1
+iMentorU Foundation Website — WEDE5020W
 Student: Reitumetse Tleane  
 Student Number: ST10526207
 Project overview
